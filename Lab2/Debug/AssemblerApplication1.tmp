@@ -1,0 +1,56 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab2\Lab2\AssemblerApplication1\AssemblerApplication1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab2\Lab2\AssemblerApplication1\AssemblerApplication1\Lab2.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m2560def.inc</FILE>
+  <FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab2\Lab2\AssemblerApplication1\AssemblerApplication1\keyboard.inc</FILE>
+  <FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab2\Lab2\AssemblerApplication1\AssemblerApplication1\delay.inc</FILE>
+  <FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab2\Lab2\AssemblerApplication1\AssemblerApplication1\lcd.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab2\Lab2\AssemblerApplication1\AssemblerApplication1\Debug\AssemblerApplication1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AssemblerApplication1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AssemblerApplication1.map</FILE>
+  <FILE>AssemblerApplication1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <init><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab2\Lab2\AssemblerApplication1\AssemblerApplication1\Lab2.asm</FILE><LINE>31</LINE></init>
+  <keys><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab2\Lab2\AssemblerApplication1\AssemblerApplication1\keyboard.inc</FILE><LINE>25</LINE></keys>
+  <read_keyboard><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab2\Lab2\AssemblerApplication1\AssemblerApplication1\keyboard.inc</FILE><LINE>44</LINE></read_keyboard>
+  <read_keyboard_num><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab2\Lab2\AssemblerApplication1\AssemblerApplication1\keyboard.inc</FILE><LINE>64</LINE></read_keyboard_num>
+  <delay_ms><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab2\Lab2\AssemblerApplication1\AssemblerApplication1\delay.inc</FILE><LINE>49</LINE></delay_ms>
+  <END><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab2\Lab2\AssemblerApplication1\AssemblerApplication1\keyboard.inc</FILE><LINE>169</LINE></END>
+  <delay_1_micros><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab2\Lab2\AssemblerApplication1\AssemblerApplication1\delay.inc</FILE><LINE>12</LINE></delay_1_micros>
+  <delay_micros><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab2\Lab2\AssemblerApplication1\AssemblerApplication1\delay.inc</FILE><LINE>34</LINE></delay_micros>
+  <L1><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab2\Lab2\AssemblerApplication1\AssemblerApplication1\delay.inc</FILE><LINE>54</LINE></L1>
+  <delay_1_s><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab2\Lab2\AssemblerApplication1\AssemblerApplication1\delay.inc</FILE><LINE>84</LINE></delay_1_s>
+  <delay_s><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab2\Lab2\AssemblerApplication1\AssemblerApplication1\delay.inc</FILE><LINE>111</LINE></delay_s>
+  <chars><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab2\Lab2\AssemblerApplication1\AssemblerApplication1\lcd.inc</FILE><LINE>22</LINE></chars>
+  <lcd_init><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab2\Lab2\AssemblerApplication1\AssemblerApplication1\lcd.inc</FILE><LINE>177</LINE></lcd_init>
+  <lcd_write_byte><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab2\Lab2\AssemblerApplication1\AssemblerApplication1\lcd.inc</FILE><LINE>263</LINE></lcd_write_byte>
+  <lcd_write_string><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab2\Lab2\AssemblerApplication1\AssemblerApplication1\lcd.inc</FILE><LINE>212</LINE></lcd_write_string>
+  <lcd_write_char><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab2\Lab2\AssemblerApplication1\AssemblerApplication1\lcd.inc</FILE><LINE>231</LINE></lcd_write_char>
+  <mask_bit><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab2\Lab2\AssemblerApplication1\AssemblerApplication1\lcd.inc</FILE><LINE>267</LINE></mask_bit>
+  <bit_is_1><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab2\Lab2\AssemblerApplication1\AssemblerApplication1\lcd.inc</FILE><LINE>274</LINE></bit_is_1>
+  <write_to_lcd><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab2\Lab2\AssemblerApplication1\AssemblerApplication1\lcd.inc</FILE><LINE>276</LINE></write_to_lcd>
+  <lcd_clear_display><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab2\Lab2\AssemblerApplication1\AssemblerApplication1\lcd.inc</FILE><LINE>293</LINE></lcd_clear_display>
+  <loop><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab2\Lab2\AssemblerApplication1\AssemblerApplication1\lcd.inc</FILE><LINE>297</LINE></loop>
+  <init_pins><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab2\Lab2\AssemblerApplication1\AssemblerApplication1\Lab2.asm</FILE><LINE>44</LINE></init_pins>
+  <main><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab2\Lab2\AssemblerApplication1\AssemblerApplication1\Lab2.asm</FILE><LINE>68</LINE></main>
+  <main_loop><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab2\Lab2\AssemblerApplication1\AssemblerApplication1\Lab2.asm</FILE><LINE>97</LINE></main_loop>
+  <next><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab2\Lab2\AssemblerApplication1\AssemblerApplication1\Lab2.asm</FILE><LINE>109</LINE></next>
+  <IF><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab2\Lab2\AssemblerApplication1\AssemblerApplication1\Lab2.asm</FILE><LINE>127</LINE></IF>
+  <ELSE><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab2\Lab2\AssemblerApplication1\AssemblerApplication1\Lab2.asm</FILE><LINE>130</LINE></ELSE>
+ </LABELS>
+</ASSEMBLER_INFO>

@@ -1,0 +1,35 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab1\Lab1_asm\Lab1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab1\Lab1_asm\Lab1\Lab1.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m2560def.inc</FILE>
+  <FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab1\Lab1_asm\Lab1\keyboard.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab1\Lab1_asm\Lab1\Debug\Lab1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab1.map</FILE>
+  <FILE>Lab1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <init><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab1\Lab1_asm\Lab1\Lab1.asm</FILE><LINE>29</LINE></init>
+  <keys><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab1\Lab1_asm\Lab1\keyboard.inc</FILE><LINE>25</LINE></keys>
+  <read_keyboard><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab1\Lab1_asm\Lab1\keyboard.inc</FILE><LINE>44</LINE></read_keyboard>
+  <read_keyboard_num><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab1\Lab1_asm\Lab1\keyboard.inc</FILE><LINE>61</LINE></read_keyboard_num>
+  <END><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab1\Lab1_asm\Lab1\keyboard.inc</FILE><LINE>195</LINE></END>
+  <init_pins><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab1\Lab1_asm\Lab1\Lab1.asm</FILE><LINE>41</LINE></init_pins>
+  <main><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab1\Lab1_asm\Lab1\Lab1.asm</FILE><LINE>64</LINE></main>
+ </LABELS>
+</ASSEMBLER_INFO>

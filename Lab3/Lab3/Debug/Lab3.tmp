@@ -1,0 +1,118 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\Lab3.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m2560def.inc</FILE>
+  <FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\keyboard.inc</FILE>
+  <FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\delay.inc</FILE>
+  <FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\lcd.inc</FILE>
+  <FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\monitor.inc</FILE>
+  <FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\stats.inc</FILE>
+  <FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\stat_data.inc</FILE>
+  <FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\tarning.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\Debug\Lab3.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab3.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab3.map</FILE>
+  <FILE>Lab3.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <init><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\Lab3.asm</FILE><LINE>35</LINE></init>
+  <keys><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\keyboard.inc</FILE><LINE>25</LINE></keys>
+  <read_keyboard><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\keyboard.inc</FILE><LINE>47</LINE></read_keyboard>
+  <read_keyboard_num><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\keyboard.inc</FILE><LINE>89</LINE></read_keyboard_num>
+  <convert_integer><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\keyboard.inc</FILE><LINE>64</LINE></convert_integer>
+  <delay_1_micros><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\delay.inc</FILE><LINE>12</LINE></delay_1_micros>
+  <IF><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\keyboard.inc</FILE><LINE>71</LINE></IF>
+  <ELSE><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\keyboard.inc</FILE><LINE>74</LINE></ELSE>
+  <delay_ms><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\delay.inc</FILE><LINE>49</LINE></delay_ms>
+  <END><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\keyboard.inc</FILE><LINE>194</LINE></END>
+  <delay_micros><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\delay.inc</FILE><LINE>34</LINE></delay_micros>
+  <L1><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\delay.inc</FILE><LINE>54</LINE></L1>
+  <delay_1_s><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\delay.inc</FILE><LINE>84</LINE></delay_1_s>
+  <delay_s><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\delay.inc</FILE><LINE>111</LINE></delay_s>
+  <chars><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\lcd.inc</FILE><LINE>23</LINE></chars>
+  <Str_1><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\lcd.inc</FILE><LINE>105</LINE></Str_1>
+  <Str_2><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\lcd.inc</FILE><LINE>109</LINE></Str_2>
+  <Str_3><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\lcd.inc</FILE><LINE>112</LINE></Str_3>
+  <Str_4><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\lcd.inc</FILE><LINE>115</LINE></Str_4>
+  <Str_5><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\lcd.inc</FILE><LINE>118</LINE></Str_5>
+  <Str_6><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\lcd.inc</FILE><LINE>121</LINE></Str_6>
+  <Str_7><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\lcd.inc</FILE><LINE>124</LINE></Str_7>
+  <Str_8><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\lcd.inc</FILE><LINE>127</LINE></Str_8>
+  <lcd_init><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\lcd.inc</FILE><LINE>225</LINE></lcd_init>
+  <lcd_write_byte><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\lcd.inc</FILE><LINE>322</LINE></lcd_write_byte>
+  <lcd_write_string><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\lcd.inc</FILE><LINE>260</LINE></lcd_write_string>
+  <Nxt><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\lcd.inc</FILE><LINE>264</LINE></Nxt>
+  <lcd_write_char><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\lcd.inc</FILE><LINE>290</LINE></lcd_write_char>
+  <String_End><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\lcd.inc</FILE><LINE>275</LINE></String_End>
+  <mask_bit><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\lcd.inc</FILE><LINE>326</LINE></mask_bit>
+  <bit_is_1><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\lcd.inc</FILE><LINE>333</LINE></bit_is_1>
+  <write_to_lcd><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\lcd.inc</FILE><LINE>335</LINE></write_to_lcd>
+  <lcd_clear_display><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\lcd.inc</FILE><LINE>352</LINE></lcd_clear_display>
+  <loop><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\lcd.inc</FILE><LINE>356</LINE></loop>
+  <monitorstr><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\monitor.inc</FILE><LINE>8</LINE></monitorstr>
+  <init_monitor><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\monitor.inc</FILE><LINE>11</LINE></init_monitor>
+  <moni_read_keyboard><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\monitor.inc</FILE><LINE>15</LINE></moni_read_keyboard>
+  <monireadquit><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\monitor.inc</FILE><LINE>34</LINE></monireadquit>
+  <moni_akey><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\monitor.inc</FILE><LINE>28</LINE></moni_akey>
+  <moni_print_address><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\monitor.inc</FILE><LINE>37</LINE></moni_print_address>
+  <printhex><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\stats.inc</FILE><LINE>37</LINE></printhex>
+  <monitor><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\monitor.inc</FILE><LINE>55</LINE></monitor>
+  <moni_next><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\monitor.inc</FILE><LINE>62</LINE></moni_next>
+  <printdecimal><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\stats.inc</FILE><LINE>67</LINE></printdecimal>
+  <moniquit><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\monitor.inc</FILE><LINE>93</LINE></moniquit>
+  <moni_more><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\monitor.inc</FILE><LINE>86</LINE></moni_more>
+  <clearstring><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\stats.inc</FILE><LINE>10</LINE></clearstring>
+  <totalstring><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\stats.inc</FILE><LINE>12</LINE></totalstring>
+  <countones><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\stats.inc</FILE><LINE>14</LINE></countones>
+  <counttwos><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\stats.inc</FILE><LINE>16</LINE></counttwos>
+  <countthrees><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\stats.inc</FILE><LINE>18</LINE></countthrees>
+  <countfours><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\stats.inc</FILE><LINE>20</LINE></countfours>
+  <countfives><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\stats.inc</FILE><LINE>22</LINE></countfives>
+  <countsixs><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\stats.inc</FILE><LINE>24</LINE></countsixs>
+  <init_stat><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\stats.inc</FILE><LINE>29</LINE></init_stat>
+  <clear_stat><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\stat_data.inc</FILE><LINE>57</LINE></clear_stat>
+  <hexconv><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\stats.inc</FILE><LINE>36</LINE></hexconv>
+  <no200><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\stats.inc</FILE><LINE>76</LINE></no200>
+  <tens><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\stats.inc</FILE><LINE>88</LINE></tens>
+  <no100><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\stats.inc</FILE><LINE>84</LINE></no100>
+  <nextten><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\stats.inc</FILE><LINE>92</LINE></nextten>
+  <ones><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\stats.inc</FILE><LINE>101</LINE></ones>
+  <testPrintDec><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\stats.inc</FILE><LINE>119</LINE></testPrintDec>
+  <nexttoprint><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\stats.inc</FILE><LINE>122</LINE></nexttoprint>
+  <showstat><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\stats.inc</FILE><LINE>132</LINE></showstat>
+  <get_stat><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\stat_data.inc</FILE><LINE>46</LINE></get_stat>
+  <clearstat><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\stats.inc</FILE><LINE>234</LINE></clearstat>
+  <stats><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\stat_data.inc</FILE><LINE>27</LINE></stats>
+  <store_stat><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\stat_data.inc</FILE><LINE>30</LINE></store_stat>
+  <init_tarning><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\tarning.inc</FILE><LINE>7</LINE></init_tarning>
+  <roll_dice><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\tarning.inc</FILE><LINE>11</LINE></roll_dice>
+  <rolling><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\tarning.inc</FILE><LINE>13</LINE></rolling>
+  <roll><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\tarning.inc</FILE><LINE>22</LINE></roll>
+  <init_pins><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\Lab3.asm</FILE><LINE>51</LINE></init_pins>
+  <main><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\Lab3.asm</FILE><LINE>96</LINE></main>
+  <write_welcome><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\Lab3.asm</FILE><LINE>72</LINE></write_welcome>
+  <Nxt1><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\Lab3.asm</FILE><LINE>76</LINE></Nxt1>
+  <End1><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\Lab3.asm</FILE><LINE>87</LINE></End1>
+  <menu><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\Lab3.asm</FILE><LINE>111</LINE></menu>
+  <main_loop><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\Lab3.asm</FILE><LINE>144</LINE></main_loop>
+  <next><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\Lab3.asm</FILE><LINE>157</LINE></next>
+  <Prss_2><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\Lab3.asm</FILE><LINE>184</LINE></Prss_2>
+  <Prss_3><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\Lab3.asm</FILE><LINE>200</LINE></Prss_3>
+  <Prss_8><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\Lab3.asm</FILE><LINE>206</LINE></Prss_8>
+  <Prss_9><FILE>C:\Users\generic\Documents\Skuul\Inbyggda system\Lab3\Lab3\Lab3.asm</FILE><LINE>216</LINE></Prss_9>
+ </LABELS>
+</ASSEMBLER_INFO>

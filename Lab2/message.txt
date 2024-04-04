@@ -1,0 +1,36 @@
+1. To what extent do you consider yourself to have achieved each of the course's learning outcomes below?
+
+I've read the book, completed the programming assignments and seen the lectures. I'm still having a hard time with exam-questions. Maybe I'm dumb, but that's just me. 
+
+2. To what extent do you consider that the course's work models/learning activities have been a support in your learning to be able to achieve the learning outcomes?
+
+- Actual lectures on concrete subject matters with Bengt were good but in far too few a count. 
+- Actual lectures on concrete subject matters with Arezoo were bad, as were lectures regarding the problem set. We were all over the place with conflicting information being conveyed all around.
+- The recordings of Arezoo were in bad quality and were a pain to get through
+
+3. To what extent do you think that the course's forms of assessment gave you the opportunity to show how well you achieved the learning outcomes?
+
+- I can't understate how much I dislike OnlineJudge as a tool for "grading". Not only is the website old, clunky and difficult to navigate (requiring time), submitting code to this webpage and subsequently getting it approved is 	near impossible. Impossible not due to the complexity of the problem, but due to the way I/O is handled. I've submitted the assignment Friends 26 times with one success, and I can't for the life of me figure out exactly what the 	issue was. That specific programming assignment was nearly eight hours of work for me, with other examples (Closest Pair, Unidirectional TSP, Roman Numerals) taking me way more time than they had any reason to. 
+	
+In the end the time spent simply equates to a boolean with respects to the oral examination, and I'm also terrified of the examination itself because looking at code which you haven't touched in months can be quite a confusing ordeal. Couldn't these examinations be bi-weekly with assignments corresponding to current lecture material?
+- I'm not sure how a programming contest gives me an opportunity to show how well I've achieved the learning outcomes
+- As of writing I also have no idea what the exam entails past the problem set, so I can't really make any comment on that.
+
+4. To what extent do you consider that the course as a whole has met your expectations?
+
+My expectations were low to begin with, as such one could argue that my expectations were met.
+
+- For a course which has its lectures predominantly focused on studying for the exam, the only exam example published on Canvas was ten years old.
+- As of handing in this assessment I have not written the exam due to the date being set later than the courses end. As a matter of fact, I believe this webform was sent out to me even before the dates for the oral examinations was set. 
+- At the course start my time was seemingly respected. With regards to the points pertaining to question 3, that was apparently not the case. What exactly am I supposed to do if my code works for test-cases but gets a blank Runtime-Error on Onlinejudge? Personally I've spent more time on these assignments that I'd care to admit, and with that extra time I've learned absolutely nothing as the fixes for run-time errors had were mostly incomprehensible. 
+- In a lot of cases I felt like the individual programming assignments had little to do with what we're talking about. I feel like that's probably on my end, but why exactly? Would it have been horrible to give hints as to which of these programming methodologies, strategies and techniques were applicable for which programming assignment? If the course had I would have had a better time solving them as well as learning in practice what these methodologies, strategies and techniques entail. As an example I distinctly remember solving The Art Gallery on my first try after our lecture on computational geometry. 
+- The course structure was explained orally in the first lecture, which quite naturally started feeling very confused a while in.
+- I don't understand if it's just me, but I feel like the amount of information to absorb during this course overextends past the designated study pace 
+
+As a whole, this course has been yet another uphill, disorganized disappointment from Malmö University. 
+
+5. To what extent has the course given you the opportunity to take responsibility for your own learning?
+
+As this course covers a wide range of surface-areas, the uploaded lectures were a very good complement. 
+
+I'd have given this rating a two otherwise, mostly due to the aspects relayed above.
